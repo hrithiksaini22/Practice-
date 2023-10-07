@@ -43,3 +43,6 @@ exit
 sudo su
 sudo -i
 sudo su
+history
+cd /
+sudo su
